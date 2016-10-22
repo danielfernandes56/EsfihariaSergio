@@ -1,7 +1,7 @@
-package Esfihario;
+package Esfiharia;
 
 import java.sql.SQLException;
-import Esfihario.ConfigBase;
+import Esfiharia.ConfigBase;
 import java.sql.Statement;
 
 public class DaoCadSabor {
