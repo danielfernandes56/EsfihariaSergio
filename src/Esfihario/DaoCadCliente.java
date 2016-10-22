@@ -1,7 +1,7 @@
-package esfihariasergio;
+package Esfihario;
 
 import java.sql.SQLException;
-import esfihariasergio.ConfigBase;
+import Esfihario.ConfigBase;
 import java.sql.Statement;
 
 public class DaoCadCliente {

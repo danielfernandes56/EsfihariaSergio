@@ -1,6 +1,6 @@
-package esfihariasergio;
+package Esfihario;
 
-import esfihariasergio.DaoCadTipo;
+import Esfihario.DaoCadTipo;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;

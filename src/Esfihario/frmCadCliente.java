@@ -1,6 +1,6 @@
 
-package esfihariasergio;
-import esfihariasergio.DaoCadCliente;
+package Esfihario;
+import Esfihario.DaoCadCliente;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
